@@ -1,5 +1,7 @@
 # Fixture Assembly
 
+![assembly](media/fixture_assy.png)
+
 ## Overview
 
 This repository showcases a fixture assembly designed in **SolidWorks** to demonstrate my expertise in CAD modeling, fixture design for manufacturing, and technical documentation. The project includes a complete fixture assembly, individual part models, technical drawings, and STEP files for interoperability. The fixture is designed to securely hold and position workpieces during manufacturing processes (e.g., machining, welding, or assembly). The design is optimized for manufacturing (e.g., machining, assembly) and rapid prototyping, highlighting skills in precision engineering and process optimization.
@@ -12,6 +14,10 @@ The fixture assembly is a specialized tool designed to stabilize and align workp
 - Technical drawing creation for clear fabrication and assembly instructions.
 - Exporting interoperable STEP files for prototyping or collaboration.
 - Consideration of manufacturing processes (e.g., machining, 3D printing) and rapid prototyping workflows.
+
+## Demo Video
+
+[Click here to view the Fixture Assembly video in a new tab](https://desireloft.github.io/Fixture/fixture.html)
 
 ### Components
 
